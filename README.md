@@ -1,5 +1,7 @@
 # COVID-19 no Brasil: Uma Abordagem Preditiva para Apoio à Gestão e Alocação de Recursos
 
+## Documentação completa: https://github.com/cmmonteforte/Grupo9-ProjetoAplicadoIV/blob/main/analysis_and_documentation/Grupo9_projeto_aplicado_IV_entrega_1.ipynb
+
 # Introdução
 Nas primeiras 3 semanas de 2025, o Brasil registrou mais de 57 mil casos confirmados de COVID-19, o maior número em 10 meses, representando um aumento de 151% em comparação com as últimas 3 semanas de 2024 (ESTADÃO CONTEÚDO, 2025).<br>
 Em 2025, a COVID-19 é a maior causadora de síndromes respiratórias agudas graves (SRAGs), representando 48% das notificações da doença e 87% das mortes, segundo o informe de 15/02/2025 da Secretaria de Vigilância em Saúde e Ambiente do Ministério da Saúde.
