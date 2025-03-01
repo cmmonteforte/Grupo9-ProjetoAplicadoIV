@@ -18,10 +18,10 @@ Neste projeto, buscamos desenvolver um modelo preditivo que analise dados histó
 
 Esperamos atingir esse objetivo através das seguintes metas:
 
-Coletar e processar dados oficiais de casos e óbitos relacionados à COVID-19 no Brasil;
-Aplicar e comparar técnicas de modelagem de séries temporais;
-Validar o desempenho dos modelos preditivos através de métricas de erros e testes estatísticos;
-Gerar um modelo com bom desempenho, capaz de prever a quantidade de casos ou óbitos nos próximos dias, semanas ou meses.
+* Coletar e processar dados oficiais de casos e óbitos relacionados à COVID-19 no Brasil;
+* Aplicar e comparar técnicas de modelagem de séries temporais;
+* Validar o desempenho dos modelos preditivos através de métricas de erros e testes estatísticos;
+* Gerar um modelo com bom desempenho, capaz de prever a quantidade de casos ou óbitos nos próximos dias, semanas ou meses.
 
 # Contribuição
 Membros do grupo:
